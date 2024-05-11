@@ -1,4 +1,4 @@
-package phongtaph31865.poly.lab1
+package phongtaph31865.poly.lab1.Lab2
 
 fun main(){
     val sv1 = SinhVienModel("Tran Anh Phong", "PH31865", 8f)

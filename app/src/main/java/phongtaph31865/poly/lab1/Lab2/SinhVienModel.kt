@@ -1,4 +1,4 @@
-package phongtaph31865.poly.lab1
+package phongtaph31865.poly.lab1.Lab2
 
 class SinhVienModel(var tenSV: String, var mssv: String, var diemTB: Float) {
     var daTotNghiep: Boolean? = null

@@ -1,4 +1,4 @@
-package phongtaph31865.poly.lab1
+package phongtaph31865.poly.lab1.Lab2
 
 fun main() {
     //khai bao va su dung null safety

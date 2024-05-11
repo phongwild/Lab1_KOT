@@ -1,4 +1,4 @@
-package phongtaph31865.poly.lab1
+package phongtaph31865.poly.lab1.Lab1
 
 fun main() {
     bai2()
