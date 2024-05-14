@@ -1,6 +1,6 @@
 package phongtaph31865.poly.lab1.Lab2.Bai7
 
-class Nguoi {
+open class Nguoi {
     var hoTen: String = ""
     var tuoi: Int = 0
     var queQuan: String = ""
